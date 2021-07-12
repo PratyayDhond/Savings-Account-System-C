@@ -1,5 +1,7 @@
 # Savings-Account-System-C
 
+My first ever Project in C language
+
 this is a c code which gets your information and creates your savings accounts where you can create new account, set password for your account, Check details of your account, Deposit and Withdraw money to and from your account respectively.
 
 This code has been written by Pratyay Dhond(That's me!)
